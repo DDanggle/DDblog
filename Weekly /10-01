@@ -1,0 +1,39 @@
+
+
+1. 구글의 알파칩 이야기 
+
+AI를 통해서 AI 칩을 만드는 이야기가 구글에서부터 나왔다. 2020년부터 준비한 프로젝트로 이번에 어느정도 준비가 되었다고 생각하고 공개한 것 같다.
+강화학습을 통해서 칩 설계나 레이아웃에 대해서 조정하는 것이 가능하다고 한다. 크게보면 알파칩의 목표는 다음과 같다. 
+
+1. 전문가들이 몇 주에 걸쳐서 해야할 일을 단 몇 시간안에 처리하는 것에 맞춘다.
+2. 이세돌을 이겼던 알파고때의 방식과 같이 새롭고 
+
+딥러닝을 통해서 on-chip, inter-chip network blocks, 메모리 컨트롤, 데이터 전송 버퍼 등과 관련한 칩 블록에 대해서 엄처아네 다양한 사오항에 대해서 학습하고, 0에서 시작해서 계속 칩을 만들고 생성하보는 사전 훈련을 거친다. 이제는 전문가 수준에 이른 것 같다고 하면서, Trillium 과 같은 6세대 구글 TPU에 많은 것들이 적용되었다고 한다.
+
+(구글 TPU의 경우, 원래 거의 구글 모델에서만 학습/훈련/추론이 가능했지만 이제는 더 확장하여 애플 foundation 모델 들의 훈련도 구글에서 이루어진다고 한다)
+
+참고) https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/ 
+
+
+2. openai 
+
+손해와 막대한 투자 
+https://www.theinformation.com/articles/openai-projections-imply-losses-tripling-to-14-billion-in-2026 
+
+
+
+3. 구글과 반독점
+After Google lost this autumn, the next stage of the Google Search competition trial (as opposed to the adtech one, which just wrapped up) is remedies. That involves a lot of bargaining and posturing, and this week the DoJ made its first bid, arguing that, in principle, this should result in a change in the market (well, yes), and outlining its ideas. The one that got attention is the call for ‘structural’ remedies, which means breakups, namely splitting off Android and Chrome. As I and pretty much everyone else on earth pointed out, though, neither of those have their own revenue (except selling the default search slot, but Bing would now be the only bidder) and splitting them off would not necessarily change the core, self-reinforcing nature of Google search itself (they might keep Google the default, or users might switch back). And as I wrote at the time of the verdict, it’s actually quite hard to see what the court could do that would directly change Google’s market share
+https://www.ben-evans.com/oaatl2af7/2024/10/14/13-october-2024
+
+
+4. 다리오 아모데이의 긴 AI 에 대한 미래 
+
+
+5. 23andme .. 그리고.. 
+
+
+0.  allenai 에서 나온 새로운 소형 멀티모달  - molmo 
+
+https://huggingface.co/allenai/Molmo-7B-D-0924
+

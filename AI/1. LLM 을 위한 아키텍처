@@ -1,0 +1,15 @@
+칩후옌 책 
+https://docs.google.com/document/d/1AR1v7p4ckJBXn4zv2saFX4ssQDKYuU2gE_aVO2QFHrs/edit#heading=h.v2zxxiptbdpt
+
+https://github.com/a16z-infra/llm-app-stack
+
+지금 시대의 LLM 서비스를 위한 아키텍처
+
+AI 시대에 아키텍처는크게 두가지로 구성된다.
+
+1. 트레이닝(training) 
+2. 추론(inference) 
+
+여러 서비스에 대한 LLM 아키텍처는 어떻게 구성해야할까? 
+
+
