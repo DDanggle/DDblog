@@ -1,0 +1,113 @@
+동동의 테크타운 2025년 1월
+
+AI에서는 히 무섭게 치고나오는 중국
+
+- 오픈소스 LLM 진영에서도 굳건히 1등을 유지했던 메타도 중국에 따라잡히는 중 
+- DeepSeek의 v3가 추가로 공개. 기존 메타의 모델보다 학습한 양과 결과값을 내는데 필요한 인풋/아웃풋 양은 많아졌지만, 학습 비용도 훨씬 적게 사용 (H800 GPU 1개로 82억원 정도) 
+- 돈을 주고 사용해야하는 ChatGPT4 와 비교해도 성능이 더 좋아서 새로운 면모를 만들어내야할 수도. 
+- 알리바바도 오픈소스 AI 멀티모달(텍스트 하나만 이해하는 게 아닌, 이미지 영상 등과 텍스트를 함께 복합적으로 이해하고 설명하는 모델) 추가로 공개 (OpenAI의 o1 수준)
+
+https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/
+https://wandb.ai/byyoung3/ml-news/reports/DeepSeek-V3-Training-671-Billion-Parameters-with-a-6-Million-dollar-Budget--VmlldzoxMDczNTI2Ng
+
+
+시리가 엿들은 대가로 거액의 합의금 지불
+
+- 시리가 우연하게 녹음한 대화내용이 유출
+- 애플 외주 직원들이 시리 품직 잡업 중에 "기밀 의료정보, 마약 거래, 개인적인 이야기"를 계속 듣게된다고, 내부 고발했음
+- 실제적 증거를 찾지 못했지만, 미국거주 사용자들에게 기기당 20달러씩 최대 4개까지 보상하기로 
+- 총 금액은 9,500만불(한화 1,400억). 
+
+https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-settlement-proposed
+
+
+세련된 링크드인의 대안, 소셜 전문 네트워킹 플랫폼 polywork, 이제 역사속으로
+- 2021년부터 5,000만 달러(750억)이상을 유치하고, 유니콘 스타트업에 가깝게 갔던 polywork 도 서비스를 닫기로
+- 세련된 프로필과 함께 자기들의 정체성을 드러낼 수 있는 프로필 + 네트워킹 사이트로 21-22년에 굉장히 바이럴이 핫했음 
+- 현재 미국을 주도하는 VC인 a16z부터 미국의 유명 투자자들이 상당수 투자했었지만, 비즈니스 성장에는 실패 
+
+
+
+
+
+
+중국 AI, 계속 무섭게 치고나가는 중 
+
+- DeepSeek v3, 메타 뛰어넘는 성능으로 오픈소스 LLM 최강자로 등극 - 
+- 학습과정에서도 GPU 1개로 82억원이면 충분, 비용 효율성도 압도적이고, 실제 사용에서는 OpenAi에 CHatGpt4 비해서도 가격 경쟁력이 훨씬 높음 
+- 알리바바도 텍스트·이미지·영상 동시 처리 가능한 복합적으로 이해가능한 OpenAI o1급 멀티모달 AI 인 QvQ 모델 공개해 존재감 과시
+
+https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/
+https://wandb.ai/byyoung3/ml-news/reports/DeepSeek-V3-Training-671-Billion-Parameters-with-a-6-Million-dollar-Budget--VmlldzoxMDczNTI2Ng
+
+'시리가 엿들었다' 애플 1400억 합의금 물어
+
+- 시리 녹음 내용 유출로 프라이버시 침해 논란되었던 애플이 결정적 증거 없었지만 1400억원 규모 합의금 제시 
+- 기밀 의료정보부터 마약거래, 사적인 내용까지 다양한 내용을 애플 외주 직원들이 청취했고 내부 고발 
+- 미국 사용자에만 해당되며 대상 기기당 20달러, 최대 4개까지 보상
+
+https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-settlement-proposed
+
+
+'링크드인 대항마' polywork의 몰락
+
+- 750억원 투자 유치했던 링크드인 대체 커리어 전문 소셜 네트워크 유망주, 3.5 년 만에 서비스 종료
+- 세련된 프로필로 21-22년 폭발적 인기거뒀고, a16z 등 톱티어 VC도 투자했지만 수익화 실패
+- 전문가용 SNS 시장의 높은 진입장벽이 있지만 시장 자체도 큰 시장인만큼 여러 플랫폼들의 도전이 이어질 것 
+
+https://x.com/multiplay3r/status/1873859669065978327?s=46&t=ftn-Jh7qER22XlmurOLSpw 
+
+
+1월 둘째주 (1.10)
+
+2. 이제 CES의 시작과 주목은 nvidia. 
+
+RTX 50 시리즈 출시 
+- nvidia 가 CES 기간 중 RTX5090를 출시
+- 기존 RTX 4090에 비해서 메모리를 33%늘려 32GB 탑재했고, 연산횟수는 2배이상 높음, 가격도 역대 최고. 
+- RTX 시리즈는 개인용으로 사용하는 그래픽 카드로 합리적인 가격 380만원AI 모델을 쉽게 올릴 수 있으며 다양한 최적화 방법들을 적용하기 쉬움 
+
+- https://www.nvidia.com/ko-kr/geforce/news/rtx-50-series-graphics-cards-gpu-laptop-announcements/
+
+- 슈퍼컴퓨팅 플랫폼 DIGITS 출시
+- 소형 슈퍼컴퓨팅 플랫폼 DIGITS 공개. Nvidia 의 가장 최신 아키텍처인 블랙웰 아키텍처까지 적용하여 최고의 성능을 제공  
+- 학습용은 아닌, 개발이 완료된 AI 및 시뮬레이션 모델을 실제 연구 등에 적용되는 서빙용도 
+- 가격은 고작 $3000
+
+ https://www.nvidia.com/en-us/project-digits/
+
+- 로봇 플랫폼 Cosmos 출시 
+- 크게 보면 비디오 생성모델에 가깝지만, 로봇과 자율주행에서 사용되는 몸짓, 행동(액션) 명령하는 것들이 포함되어 있어서 로봇을 위한 비디오 모델이라고 생각하면 됨 
+- 사람들의 명령어(텍스트, 음성) 기반으로 행동을 만들떄 부족한 데이터들을 추가적으로 제공하고 공장, 도로, 창고등에서 모션이 생기는 환경을 만들어줌 
+- "사람이 다양한 작업하는 영상" 등의 데이터를 다양하게 만들어두었으니 로봇하는 사람도 GPU 사서 이 플랫폼 사용하라는 것 
+
+https://www.etnews.com/20250107000331 
+
+3. antropic 이 이제 기업 가치 85조
+
+- claude 를 서비스를 운영하는 antropic이 60B(한화 약 85원) 규모로 투자가 클로징 될 예정
+- antorpic 은 뒤에서 amazon에서 바쳐주고 있는 AI 선두 기업 중하나. 
+- 연간 매출은 8억 7500만 덜러 규모 매출(한화 약 1조원)로 OpenAI의 약 20% 수준이지만, 앞으로 뜨게될 컴퓨터를 AI 가 직접 조작하는 에이전트 모델 등에서는 가장 선두 
+
+https://www.cnbc.com/2025/01/07/anthropic-in-talks-to-raise-funding-at-60-billion-valuation.html
+
+
+4. 트럼프 취임식 후원 테크기업들 차례로 동참 
+
+- 1월 20일 트럼프 취임식에 빅테크 기업들과 리더들이 줄이어 후원
+- 현재까지 구글, 메타, 아마존, 마이크로소프트는 1백만달러씩 후원했고, AI 스타트업인 perplexity 도 후원행렬에 동참 
+- 애플의 팀쿡, OpenAI의 샘 알트먼은 개인적으로 1백만 달러씩 후원, 사실 이렇게 후원하는 이유는 1백만 달러 이상 후원해야 VIP 티켓이 주어짐 
+- 지난 번 바이든 취임식 땐 6,100만 달러 정도 모았지만, 트럼프는 지금까지 1억 7000만 달러 규모
+
+https://qz.com/google-youtube-trump-inauguration-meta-amazon-apple-1851736124
+
+5. TIKTOK과 이제 남은 10일. 
+
+- 미국에서 1억 7천만명의 월간 활성 사용자들을 가지고 있는 tiktok은 1월 19일까지 미국내 매수자를 찾아야함, 찾지못하면 바로 금지.
+- 미국 연방 대법원은 오늘 금요일에 관련해서 구두변론을 진행하기로. 
+- 대법원은 구두변론 전에는 금지 조치를 취소할 수 없다는 입장이지만, 양측의 주장에 따라 기간 연장에 대한 결정을 내릴 수 있다고. 
+- 현재 트럼프는 본인의 취임후로 금지 조치 시행을 연기해달라고 대법원에 요청했으나, 바이든 법무부는 거부
+
+
+https://www.theverge.com/2025/1/9/24339875/tiktok-ban-supreme-court-china-trump
+- https://qz.com/tiktok-ban-bytedance-us-supreme-court-trump-biden-china-1851735483

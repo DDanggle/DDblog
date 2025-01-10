@@ -1,3 +1,354 @@
 튜링 award 강의 1 - 도널드 크누스
 
+1974 ACM Turing
+
+Award Lecture
+
+[The Turing Award citation read by Bernard A. Galler, chairman
+of the 1974 Turing Award Committee, on the presentation of this
+lecture on November 1 1 at the ACM Annual Conference in San
+Diego.]
+
+The A.M. Turing Award of the ACM is presented annually
+by the ACM to an individual selected for his contributions of a
+technical nature made to the computing community. In particu-
+lar, these contributions should have had significant influence on
+a major segment of the computer field.
+
+"The 1974 A.M. Turing A ward is presented to Professor
+Donald E. Knuth of Stanford University for a number of major
+contributions to the analysis of algorithms and the design of
+programming languages, and in particular for his most significant
+contributions to the 'art of computer programming' through his
+series of well-known books. The collections of techniques, algo-
+rithms and relevant theory in these books have served as a focal
+point for developing curricula and as an organizing influence on
+computer science.
+
+Such a formal statement cannot put into proper perspective
+the role which Don Knuth has been playing in computer science,
+and in the computer industry as a whole. It has been my experi-
+Computer Programming as an Art
+
+ence with respect to the first recipient of the Turing Award, Pro-
+fessor Alan J. Perlis, that at every meeting in which he participates
+he manages to provide the insight into the problems being dis-
+cussed that becomes the focal point of discussion for the rest of
+the meeting. In a very similar way, the vocabulary, the examples,
+the algorithms, and the insight that Don Knuth has provided in
+his excellent collection of books and papers have begun to find
+their way into a great many discussions in almost every area of
+the field. This does not happen easily. As every author knows,
+even a single volume requires a great deal of careful organization
+and hard work. All the more must we appreciate the clear view
+and the patience and energy which Knuth must have had to plan
+seven volumes and to set about implementing his plan so care-
+fully and thoroughly.
+
+It is significant that this award and the others that he has
+been receiving are being given to him after three volumes of his
+work have been published. We are clearly ready to signal to
+everyone our appreciation of Don Knuth for his dedication and
+his contributions to our discipline. I am very pleased to have
+chaired the Committee that has chosen Don Knuth to receive the
+1974 A.M. Turing Award of the ACM.
+
+by Donald E. Knuth
+
+When Communications of the ACM began publi-
+cation in 1959, the members of ACM'S Editorial Board
+made the following remark as they described the
+purposes of ACM's periodicals [2]: "If computer pro-
+gramming is to become an important part of computer
+research and development, a transition of programming
+from an art to a disciplined science must be effected. "
+Such a goal has been a continually recurring theme
+during the ensuing years; for example, we read in 1970
+of the "first steps toward transforming the art of
+programming into a science" [26]. Meanwhile we have
+actually succeeded in making our discipline a science,
+and in a remarkably simple way: merely by deciding
+to call it "computer science. "
+
+Implicit in these remarks is the notion that there is
+something undesirable about an area of human activity
+
+Copyright Ⓒ 1974, Association for Computing Machinery, Inc.
+General permission to republish, but not for profit, all or part
+of this material is granted provided that ACM's copyright notice
+is given and that reference is made to the publication, to its date
+of issue, and to the fact that reprinting privileges were granted
+by permission of the Association for Computing Machinery.
+
+Author's address, Computer Science Department, Stanford
+University, Stanford, CA 94305
+
+that is classified as an "art" ; it has to be a Science
+before it has any real stature. On the other hand, I
+have been working for more than 12 years on a series
+of books called "The Art of Computer Programming."
+People frequently ask me why I picked such a title; and
+in fact some people apparently don't believe that I
+really did so, since I've seen at least one bibliographic
+reference to some books called "The Act of Computer
+Programming. , ,
+
+In this talk I shall try to explain why I think "Art"
+is the appropriate word. I will discuss what it means
+for something to be an art, in contrast to being a science;
+I will try to examine whether arts are good things or
+bad things; and I will try to show that a proper view-
+point of the subject will help us all to improve the
+quality of what we are now doing.
+
+One of the first times I was ever asked about the
+title of my books was in 1966, during the last previous
+ACM national meeting held in Southern California. This
+was before any of the books were published, and I
+recall having lunch with a friend at the convention
+hotel. He knew how conceited I was, already at that
+Communications	December 1974
+of	Volume 17
+the ACM	Number 12
+
+667
+
+time, SO he asked if I was going to call my books "An
+Introduction to Don Knuth." I replied that, on the
+contrary, I was naming the books after him. His name:
+Art Evans. (The Art of Computer Programming, in
+person.)
+
+From this story we can conclude that the word
+"art" has more than one meaning. In fact, one of the
+nicest things about the word is that it is used in many
+different senses, each of which is quite appropriate in
+connection with computer programming. While pre-
+paring this talk, I went to the library to find out what
+people have written about the word "art" through the
+years; and after spending several fascinating days in the
+stacks, I came to the conclusion that "art" must be one
+of the most interesting words in the English language.
+
+The Arts of Old
+
+If we go back to Latin roots, we find ars, artis
+meaning "skill. " It is perhaps significant that the
+corresponding Greek word was TEXUN, the root of both
+"technology" and "technique."
+
+Nowadays when someone speaks of "art" you
+probably think first of "fine arts" such as painting and
+sculpture, but before the twentieth century the word
+was generally used in quite a different sense. Since this
+older meaning of "art" still survives in many idioms,
+especially when we are contrasting art with science, I
+would like to spend the next few minutes talking about
+art in its classical sense.
+
+In medieval times, the first universities were es-
+tablished to teach the seven so-called "liberal arts, "
+namely grammar, rhetoric, logic, arithmetic, geometry,
+music, and astronomy. Note that this is quite different
+from the curriculum of today's liberal arts colleges, and
+that at least three of the original seven liberal arts are
+important components of computer science. At that
+time, an "art" meant something devised by man's
+intellect, as opposed to activities derived from nature
+or instinct; "liberal" arts were liberated or free, in
+contrast to manual arts such as plowing (cf. [6]). During
+the middle ages the word "art" by itself usually meant
+logic [4], which usually meant the study of syllogisms.
+
+Science vs. Art
+
+The word "science" seems to have been used for
+many years in about the same sense as "art"; for ex-
+ample, people spoke also of the seven liberal sciences,
+which were the same as the seven liberal arts [1].
+Duns Scotus in the thirteenth century called logic "the
+Science of Sciences, and the Art of Arts" (cf. [12, p.
+34f]). As civilization and learning developed, the words
+
+took on more and more independent meanings, "sci-
+ence" being used to stand for knowledge, and "art"
+for the application of knowledge. Thus, the science of
+astronomy was the basis for the art of navigation. The
+situation was almost exactly like the way in which we
+now distinguish between "science" and "engineering. , ,
+
+Many authors wrote about the relationship between
+art and science in the nineteenth century, and I believe
+the best discussion was given by John Stuart Mill. He
+said the following things, among others, in 1843 [28]:
+
+Several sciences are often necessary to form the groundwork
+of a single art. Such is the complication of human affairs, that to
+enable one thing to be done, it is often requisite to know the nature
+and properties of many things 4 · 一 Art in general consists of the
+truths of Science, arranged in the most convenient order for practice,
+instead of the order which is the most convenient for thought.
+Science groups and arranges its truths SO as to enable us to take
+in at one view as much as possible of the general order of the
+universe. Art - 1 = brings together from parts of the field of science
+most remote from one another, the truths relating to the production
+of the different and heterogeneous conditions necessary to each
+effect which the exigencies of practical life require.
+
+As I was looking up these things about the mean-
+ings of "art, " I found that authors have been calling
+for a transition from art to science for at least two
+centuries. For example, the preface to a textbook on
+mineralogy, written in 1784, said the following [17]:
+"Previous to the year 1780, mineralogy, though toler-
+ably understood by many as an Art, could scarce be
+deemed a Science. "
+
+According to most dictionaries "science" means
+knowledge that has been logically arranged and system-
+atized in the form of general "laws. " The advantage of
+science is that it saves us from the need to think things
+through in each individual case; we can turn our
+thoughts to higher-level concepts. As John Ruskin
+wrote in 1853 [32]: "The work of science is to substitute
+facts for appearances, and demonstrations for impres-
+sions."
+
+It seems to me that if the authors I studied were
+writing today, they would agree with the following
+characterization : Science is knowledge which we under-
+stand so well that we can teach it to a computer; and
+if we don't fully understand something, it is an art to
+deal with it. Since the notion of an algorithm or a
+computer program provides us with an extremely useful
+test for the depth of our knowledge about any given
+subject, the process of going from an art to a science
+means that we learn how to automate something.
+
+Artificial intelligence has been making significant
+progress, yet there is a huge gap between what com-
+puters can do in the foreseeable future and what
+ordinary people can do. The mysterious insights that
+Communications	December 1974
+of	Volume 17
+the ACM	Number 12
+
+668
+
+people have when speaking, listening, creating, and
+even when they are programming, are still beyond the
+reach of science; nearly everything we do is still an art.
+
+From this standpoint it is certainly desirable to make
+computer programming a science, and we have indeed
+come a long way in the 15 years since the publication
+of the remarks I quoted at the beginning of this talk.
+Fifteen years ago computer programming was so badly
+understood that hardly anyone even thought about
+proving programs correct; we just fiddled with a pro-
+gram until we "knew" it worked. At that time we didn't
+even know how to express the concept that a program
+was correct, in any rigorous way. It is only in recent
+years that we have been learning about the processes of
+abstraction by which programs are written and under-
+stood; and this new knowledge about programming is
+currently producing great payoffs in practice, even
+though few programs are actually proved correct with
+complete rigor, since we are beginning to understand
+the principles of program structure. The point is that
+when we write programs today, we know that we could
+in principle construct formal proofs of their correctness
+if we really wanted to, now that we understand how
+such proofs are formulated. This scientific basis is re-
+sulting in programs that are significantly more reliable
+than those we wrote in former days when intuition was
+the only basis of correctness.
+
+The field of "automatic programming" is one of
+the major areas of artificial intelligence research today.
+Its proponents would love to be able to give a lecture
+entitled ' 'Computer Programming as an Artifact"
+(meaning that programming has become merely a relic
+of bygone days), because their aim is to create machines
+that write programs better than we can, given only the
+problem specification. Personally I don't think such a
+goal will ever be completely attained, but I do think
+that their research is extremely important, because
+everything we learn about programming helps us to
+improve our own artistry. In this sense we should
+continually be striving to transform every art into a
+science: in the process, we advance the art.
+
+Science and Art
+
+Our discussion indicates that computer programming
+is by now both a science and an art, and that the two
+aspects nicely complement each other. Apparently most
+authors who examine such a question come to this same
+conclusion, that their subject is both a science and an
+art, whatever their subject is (cf. [25]). I found a book
+about elementary photography, written in 1893, which
+stated that "the development of the photographic image
+is both an art and a science" [13]. In fact, when I first
+
+picked up a dictionary in order to study the words "art"
+and "science, " I happened to glance at the editor's
+preface, which began by saying, "The making of a
+dictionary is both a science and an art." The editor of
+Funk & Wagnall's dictionary [27] observed that the
+painstaking accumulation and classification of data
+about words has a scientific character, while a well-
+chosen phrasing of definitions demands the ability to
+write with economy and precision : "The science without
+the art is likely to be ineffective ; the art without the
+science is certain to be inaccurate. "
+
+When preparing this talk I looked through the card
+catalog at Stanford library to see how other people
+have been using the words "art" and "science" in the
+titles of their books. This turned out to be quite inter-
+esting.
+
+For example, I found two books entitled The Art
+of Playing the Piano [5, 15], and others called The
+Science of Pianoforte Technique [10], The Science of
+Pianoforte Practice [30]. There is also a book called
+The Art of Piano Playing : A Scientific Approach [22].
+
+Then I found a nice little book entitled The Gentle
+Art of Mathematics [31], which made me somewhat
+sad that I can't honestly describe computer program-
+( gentle art."
+ming as a
+
+I had known for several years about a book called
+The Art of Computation, published in San Francisco,
+1879, by a man named C. Frusher Howard [14]. This
+was a book on practical business arithmetic that had
+sold over 400,000 copies in various editions by 1890.
+I was amused to read the preface, since it shows that
+Howard's philosophy and the intent of his title were
+( ' A knowledge of
+quite different from mine; he wrote :
+the Science of Number is of minor importance ; skill in
+the Art of Reckoning is absolutely indispensible. "
+
+Several books mention both science and art in their
+titles, notably The Science of Being and Art of Living
+by Maharishi Mahesh Y ogi [24]. There is also a book
+called The Art of Scientific Discovery [11], which
+analyzes how some of the great discoveries of science
+were made.
+
+So much for the word "art" in its classical meaning.
+Actually when I chose the title of my books, I wasn't
+thinking primarily of art in this sense, I was thinking
+more of its current connotations. Probably the most
+interesting book which turned up in my search was a
+fairly recent work by Robert E. Mueller called The
+Science of Art [29]. Of all the books I've mentioned,
+Mueller's comes closest to expressing what I want to
+make the central theme of my talk today, in terms of
+real artistry as we now understand the term. He ob-
+serves: "It was once thought that the imaginative
 
