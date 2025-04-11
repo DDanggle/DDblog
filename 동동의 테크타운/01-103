@@ -28,9 +28,6 @@ https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-
 
 
 
-
-
-
 중국 AI, 계속 무섭게 치고나가는 중 
 
 - DeepSeek v3, 메타 뛰어넘는 성능으로 오픈소스 LLM 최강자로 등극 - 
@@ -60,7 +57,7 @@ https://x.com/multiplay3r/status/1873859669065978327?s=46&t=ftn-Jh7qER22XlmurOLS
 
 1월 둘째주 (1.10)
 
-2. 이제 CES의 시작과 주목은 nvidia. 
+1. 이제 CES의 시작과 주목은 nvidia. 
 
 RTX 50 시리즈 출시 
 - nvidia 가 CES 기간 중 RTX5090를 출시
@@ -83,7 +80,7 @@ RTX 50 시리즈 출시
 
 https://www.etnews.com/20250107000331 
 
-3. antropic 이 이제 기업 가치 85조
+2. antropic 이 이제 기업 가치 85조
 
 - claude 를 서비스를 운영하는 antropic이 60B(한화 약 85원) 규모로 투자가 클로징 될 예정
 - antorpic 은 뒤에서 amazon에서 바쳐주고 있는 AI 선두 기업 중하나. 
@@ -92,7 +89,7 @@ https://www.etnews.com/20250107000331
 https://www.cnbc.com/2025/01/07/anthropic-in-talks-to-raise-funding-at-60-billion-valuation.html
 
 
-4. 트럼프 취임식 후원 테크기업들 차례로 동참 
+3. 트럼프 취임식 후원 테크기업들 차례로 동참 
 
 - 1월 20일 트럼프 취임식에 빅테크 기업들과 리더들이 줄이어 후원
 - 현재까지 구글, 메타, 아마존, 마이크로소프트는 1백만달러씩 후원했고, AI 스타트업인 perplexity 도 후원행렬에 동참 
@@ -101,7 +98,7 @@ https://www.cnbc.com/2025/01/07/anthropic-in-talks-to-raise-funding-at-60-billio
 
 https://qz.com/google-youtube-trump-inauguration-meta-amazon-apple-1851736124
 
-5. TIKTOK과 이제 남은 10일. 
+4. TIKTOK과 이제 남은 10일. 
 
 - 미국에서 1억 7천만명의 월간 활성 사용자들을 가지고 있는 tiktok은 1월 19일까지 미국내 매수자를 찾아야함, 찾지못하면 바로 금지.
 - 미국 연방 대법원은 오늘 금요일에 관련해서 구두변론을 진행하기로. 
@@ -109,5 +106,172 @@ https://qz.com/google-youtube-trump-inauguration-meta-amazon-apple-1851736124
 - 현재 트럼프는 본인의 취임후로 금지 조치 시행을 연기해달라고 대법원에 요청했으나, 바이든 법무부는 거부
 
 
-https://www.theverge.com/2025/1/9/24339875/tiktok-ban-supreme-court-china-trump
+- https://www.theverge.com/2025/1/9/24339875/tiktok-ban-supreme-court-china-trump
 - https://qz.com/tiktok-ban-bytedance-us-supreme-court-trump-biden-china-1851735483
+
+
+
+1. CES의 연예인된 된 엔비디아, 신제품 3종 공개
+
+- 개인용 저렴이 RTX5090 출시. 메모리 32GB(기존 대비 33%↑), 연산력 2배 향상된 최고급 그래픽카드. 가격도 이 시리즈 중 '최고' 380만원부터 시작될 예정이지만 엄청 합리적인 수준  
+- 소형 슈퍼컴퓨터 'DIGITS' 깜짝 발표. 최신 블랙웰 아키텍처 적용했는데 가격은 '고작' 3000달러
+- 'DIGITS'는 AI 학습용이 아닌 완성된 AI·시뮬레이션 모델 구동용으로 플랫폼 시장까지 진출 의지가 보임 
+- 로봇 플랫폼 'Cosmos'도 선보여. 로봇·자율주행용 비디오 생성 모델
+- 공장·도로·창고 등 실제 환경에서 로봇 동작 시뮬레이션 가능. "로봇업계도 GPU 사서 쓰세요" 
+
+- https://www.nvidia.com/ko-kr/geforce/news/rtx-50-series-graphics-cards-gpu-laptop-announcements/
+- https://www.nvidia.com/en-us/project-digits/
+- https://www.etnews.com/20250107000331 
+
+2. 클로드 개발사 Anthropic, 85조원 기업 되나
+
+- AI 챗봇 '클로드' 운영사 Anthropic, 850억 달러 규모 투자 유치 임박
+- 연 매출 1조원으로 OpenAI의 20% 수준이지만, AI 에이전트 분야선 선두주자
+- 아마존이 뒤에서 밀어주는 AI 선두 주자. (OpenAI는 마이크로소프트가)
+
+- https://www.cnbc.com/2025/01/07/anthropic-in-talks-to-raise-funding-at-60-billion-valuation.html 
+
+3. 트럼프 취임식에 쏟아지는 빅테크 머니
+
+- 구글·메타·아마존·MS 각각 100만 달러 후원. AI 기업 Perplexity도 동참
+- 팀 쿡·샘 알트먼도 개인 후원. VIP 티켓 받으려면 '최소' 100만 달러
+- 바이든 취임식(6,100만 달러)의 3배 규모인 1.7억 달러 모금
+
+https://qz.com/google-youtube-trump-inauguration-meta-amazon-apple-1851736124
+
+
+4. 틱톡 D-10, 운명의 갈림길
+
+- 미국 내 월 1.7억 사용자 보유한 틱톡, 19일까지 미국 매수자 못 찾으면 서비스 금지
+- 대법원, 금주 금요일 구두변론 진행. 기한 연장 여부 결정 가능성
+- 트럼프 12월 마라라고에서 틱톡 CEO 만남이후  "취임 후로 미뤄달라" vs 바이든 법무부 "안 된다"
+
+- https://www.theverge.com/2025/1/9/24339875/tiktok-ban-supreme-court-china-trump
+- https://qz.com/tiktok-ban-bytedance-us-supreme-court-trump-biden-china-1851735483
+
+
+
+
+
+동동의 테크타운 2024년 1월 
+
+닌텐도 스위치 2 발표 
+
+- 1억대 이상 팔린 남아있는 가장 뛰난 휴대용 게임기인 유일한 휴대용 기기인 닌텐도 스위치 2 발표
+- 디자인은 크게 변경되지 않았고, 조이스틱을 슬라이딩 방식이 아니라 꼽고 빼는 형태로 변경 예정 
+- 출시일부터 스펙까지 아직 모든 게 알려진 바 없지만, 4월부터 세계 투어를 하고, 올해 반드시 출시 예정
+- 동영상에 나오는 것에 따르면 향상된 물리 엔진과 함께 더 많은 사람들과 함께 즐길 수 있는 멀티 플레이어 환경이 추가될 예ㅇ 
+
+
+
+- 우주로 나아가는 로켓의 한 주 
+
+- 수요일에 오호츠크에서 공유됐던 SpaceX의 스타십 로켓이 발사되었지만, 우주로 향하던 상단부분은 대기권에서 파괴됨
+- 로켓 발사대로 돌아와서 끌어안기는 "슈퍼 헤비" 부스터의 경우, 지난 10월 5번째 시험 비행때 사용되었던 엔진으로 두번째로 "포획"에 성공함
+- 아마존 CEO 제프 베조스의 우주선 회사 블루 오리진도한 몇 년동안 지연되었지만, 2세대 로켓 뉴 글렌 로켓 발사에 성공했고 성공적으로 우주선을 궤도에 안착시킴
+- 하지만, 지정된 착륙대에 착륙하는 로켓 회수에는 실패. 블루 오리진도 느리지만 천천히 우주산업에 집중하고 있는 중. 
+
+
+
+
+닌텐도의 차세대 게임기 '스위치 2' 베일 벗다
+
+- 1억대 판매 기록한 '마지막 휴대용 게임기' 이자 TV 등에서도 함께할 수 있는 하이브리드형 게임기 스위치의 후속작 공개
+- 기존 디자인은 유지하되, 조금 세련되게. 조이스틱은 탈부착식으로 변경
+- 4월부터 세계 투어 시작, 연내 출시 확정이지만 구체적인 스펙과 출시일은 아직 미공개
+- 향상된 물리 엔진과 멀티플레이어 기능 강화 예상 
+
+- https://www.theverge.com/2025/1/16/23872810/nintendo-switch-2-next-generation-console-features-trailer
+
+
+우주 경쟁, 희비 엇갈린 일주
+
+- 지난 오호츠크에서 발사예고했던 SpaceX 스타십, 우주로 가는 우주선은 상단부 대기권서 파괴됐지만 2세대 로켓인 '슈퍼 헤비' 부스터는 두 번째 포획 성공 
+- 부스터는 지난 10월 5차 시험 비행때 사용된 동일 엔진으로 귀환 성공
+- 베조스의 블루 오리진, 수년간 개발연기와 발사연기가 이루어졌던 2세대 재사용 로켓인 '뉴 글렌' 로켓 첫 궤도 진입 성공
+- 다만 로켓 회수는 실패. "느리지만 꾸준히" 우주 산업 도전 중. SpaceX 와는 아직 몇 년간의 격차가 있음
+
+- https://edition.cnn.com/2025/01/16/science/new-glenn-launch-blue-origin/index.html
+- https://www.cnbc.com/2025/01/16/spacex-launch-starship-flight-seven-starlink-satellite-test.html
+- https://qz.com/bezos-blue-origin-new-glenn-debut-orbit-musk-spacex-1851740809? 
+
+
+1.24 
+
+1. 트럼프 정부의 거대한 AI 프로젝트, 스타게이트 개막 
+- 2025년부터 4년간 5천억 달러 (780조 규모)의 AI 프로젝트를 시행하겠다고. 거의 대부분은 데이터센터를 잘 구축하는데 도입될 예정
+- 민간 규모 최대 프로젝트 중 하나로, 민간이 주도하고 정부는 백업하는 협업 프로젝트, 트럼프가 직접 백악관에서 발표 
+- OpenAI, 오라클, 소프트뱅크가 주축이 되고 손정의 회장이 직접 스타게이트 대표에 취임할 예정 
+- 일론머스크는 샘 알트먼에게 "너희 돈 없잖아"라고 딴지걸고 있음. 머스크는 OpenAI 와 경쟁하고 있는 Grok의 대표이자 OpenAI 창업자중 한명. 
+
+https://openai.com/index/announcing-the-stargate-project/
+https://www.aitimes.com/news/articleView.html?idxno=167421
+
+
+2. OpenAI Operator 깜짝 출시
+- OpenAI가 Claude의 에이전트 모델 'computer use'와 대항할만한 Operator을 출시 
+- 이 제품은 OpenAI 가 연구목적의 제품을 제외한 첫 실질적인 시도
+- 자체 브라우저를 사용하여 마우스와 키보드로 사용가능한 모든 것을 수행할 수 있고, 문제를 맞닦드릴 경우 자체 추론을 사용하여 해결 
+- 아직 초기단계로 프리뷰버전을 월 200달러를 내는 프리미엄 유저들에게 제공하며 
+
+3. DeepSeek 로 인한 메타의 동요 
+- DeepSeek가 open ai 추론형 모델 o1 에 버금갈만한 수준인 r1 모델을 오픈소스로 공개. 자체 데이터와 모델을 사용한 훈련 
+- 메타에서 '수석급' 엔지니어 연구자 1명 연봉도 안되는 비용으로 오픈소스 모델을 주도했던 메타의 모델 경쟁력을 뛰어넘은 것(메타는 더 안 좋은 모델에 최소 20배 이상의 비용을 사용). 내부는 엄청나게 동요중이라고.
+- DeepSeek 에 대해서 크게 알려진 바도 없고, 생긴지 2년도 안된 회사. 데이터 모으는 것도 암암리에 불법으로 하는 거라고. 
+
+
+
+
+4. 틱톡 모회사 바이트댄스, AI 반도체 인프라에 120억달러 이상 투자 예정 
+- 중국 본사인 바이트댄스는 120억달러 규모의 칩을 구매할 예정 미국의 수출통제에 따라 좋은 성능의 칩은 못사고 Nvidia 의 일부칩과 나머지는 중국 회사 화웨이 등에 70% 이상 집중될 예정 
+- 트럼프 정부가 75일동안의 시간을 줬지만, 그 사이에 미국기업에 50% 이상 팔지않으면 훨씬 더 엄격하게 규제를 할 것이라고 선언
+- 중국 회사들의 경우 모델에 필수적인 GPU를 안 그래도 구하기 어려운데, 더욱 더 거샌 규제에 직면하게 될수도 
+- 바이트댄스는 이미 영상과 이미지 모델과 관련해서는 전 세계적인 선두이긴함 
+
+==== 에이팅 반영 버전 
+
+1. 트럼프 정부의 '스타게이트', 780조 AI 프로젝트 시동
+
+- 2025년부터 4년간 5천억 달러(약 780조  투입, 대부분 데이터센터 구축에 사용
+- OpenAI·오라클·소프트뱅크 주도, 손정의 회장이 대표 취임
+- 백악관서 트럼프가 직접 발표한 '민관협력' 최대 프로젝트
+- 일론머스크(OpenAI 창업자이자, 경쟁모델 Grok 대표)는 "OpenAI 너희 돈 없잖아" 지적하며 딴지
+- 사실 손정의가 회장으로 취임하는 것도 이상하고, 대부분의 비용으로 데이터 센터를 짓곘다는 데 Nvidia의 도움도 없고, 오라클이 파트너로 들어왔지만 오라클은 아직 칩의 확보가 많이 안된 상황 
+- 사우디의 네옴 같은 허상만 잡는 모양새가 될 수도
+- 그렇지만 이와 동시에 한국은 비슷한 프로젝트를 고작 1조원 투자한다고 이번주에 발표, 그래도 100조는 투자해야 조금이라도 따라가지 않겠나? 
+
+https://openai.com/index/announcing-the-stargate-project/
+https://www.aitimes.com/news/articleView.html?idxno=167421
+
+
+2. OpenAI의 반격 'Operator' 출시
+
+- 클로드 에이전트 Computer Use 에 맞선 첫 상용 제품 도전 
+- 자체 브라우저를 활용해서 마우스·키보드 조작 가능
+- 문제 해결 위한 자체 추론 능력 탑재
+- 프리미엄 회원(월 200달러)에 프리뷰 버전 제공
+
+https://openai.com/index/introducing-operator/
+
+
+3. 중국 DeepSeek의 충격, 메타 흔들다
+
+- OpenAI o1급 추론모델 'r1' 오픈소스로 공개, 여타 오픈소스 모델 중 최고임에도 비용은 OpenAI 대비 95% 저렴
+- 메타 수석급 연봉보다 적은 비용으로 개발, 20배 효율이라 메타 내부 gen AI 팀 동요 (블라인드 링크)
+- DeepSeek 에 대해서 크게 알려진 바도 없고, 생긴지 2년도 안된 회사. 데이터 모으는 것도 암암리에 불법으로 하는 거라고. 
+
+https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1-at-95-less-cost/
+https://www.cio.com/article/3806228/%EA%B0%80%EA%B2%A9%EC%9D%80-%EC%98%A4%ED%94%88ai-%EB%8C%80%EB%B9%84-95-%EC%A0%80%EB%A0%B4-%EC%84%B1%EB%8A%A5%EC%9D%80-%EB%B9%84%EC%8A%B7-%C2%B7%C2%B7%C2%B7-ai-%EC%97%85%EA%B3%84.html
+https://www.teamblind.com/post/Meta-genai-org-in-panic-mode-KccnF41n
+
+
+4. 틱톡 모기업의 120억 달러 AI 인프라 투자 
+
+- 바이트댄스, 미국 제재로 화웨이 등 중국 기업에 70% 구매 집중
+- 트럼프 정부가 시간 줬지만  "75일내 미국 바이트댄스의 주식 50% 이상 매각" 압박하며 하지않을시 고강도 규제할 예정 
+- 중국 AI 기업들 GPU 수급 더욱 어려워질 전망이라 수요는 많은 데 중국으로 들어가는 칩이 너무 적은 상황
+- 영상·이미지 AI 분야 세계 선두 지위 위협받나
+
+https://www.ft.com/content/0815c8fb-e6ed-478b-abb1-c67d6f48fd3a
+
+
